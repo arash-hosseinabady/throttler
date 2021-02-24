@@ -1,14 +1,14 @@
 This is a small app for handle requests that get from socket.
 
-##Installation
+**Installation**
 
 - download project
 
-##Config
+**Config**
 
 The `config.cnf` file is for set config app such as `request_per_min` and `socket_port`.
 
-##Compile&Run
+**Compile&Run**
 
 ` cmake --build . --target clean -- -j 2`
 
